@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 12</title>
+    <link  href="\Intro to HTML\header.css" rel="stylesheet">
+    <link  href="\Intro to HTML\12.css" rel="stylesheet">
+
+    
+</head>
+<body>
+    <div class="header">
+        <div class="left-section">
+            <img class="hmbrgr"src="\Styles\Images for youtube\hamburger-menu.svg">
+            <img class="YTlogo" src="\Styles\Images for youtube\youtube-logo.svg">
+        </div>
+        <div class="middle-section">
+            <input class="searchbar" type="search" placeholder="Search">
+            <button class="searchicon"><img src="\Styles\Images for youtube\search.svg"></button>
+            <button class="voice"><img src="\Styles\Images for youtube\voice-search-icon.svg"></button>
+        </div>
+        <div class="right-section">
+            <button class="rtb"><img src="\Styles\Images for youtube\upload.svg"></button>
+            <button class="rtb"><img src="\Styles\Images for youtube\explore.svg"></button>
+            <button class="rtb"><img src="\Styles\Images for youtube\notifications.svg"></button>
+            <img class="user" src="\Styles\Images for youtube\hl-yp-cats-579652.webp">
+        </div>
+
+        
+    </div>
+</body>
+
+</html>    
